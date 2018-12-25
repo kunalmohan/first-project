@@ -1,0 +1,18 @@
+*{
+	line-height: 25px;
+	background: #FAEBE6;
+  	font-family: "Times New Roman";
+}
+
+span{
+	font-size: 200%;
+}
+
+form{
+	text-align: center;
+}
+
+input{
+	margin: 5px;
+	background: white;
+}

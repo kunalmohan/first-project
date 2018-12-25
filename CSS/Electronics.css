@@ -1,0 +1,44 @@
+*{
+  background: #FAEBE6;
+}
+
+img{
+	border: solid silver 1px;
+	padding: 5px;
+	height: 210px;
+}
+
+figure {
+  float: left;
+  text-align: left;
+  font-size: 17px;
+  text-indent: 0px;
+  border: thin grey solid;
+  margin: 0.2em;
+  margin-bottom: 25px;
+  padding: 1px;
+  color: #6A6969;
+}
+
+.price{
+  font-size: 20px;
+  color: blue
+}
+
+.Smartphones img{
+	height: 250px;
+}
+
+.Laptops img{
+	height: 190px;
+	width: 275px;
+}
+
+.cameras img{
+	height: 160px;
+}
+
+a{
+	color: inherit;
+	text-decoration: none;
+}

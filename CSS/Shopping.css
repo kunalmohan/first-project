@@ -1,0 +1,62 @@
+header{
+	background-color: #9B09DB;
+	font-size: 30px;
+	height: 35px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	border-bottom: solid 1px;
+	padding: 3px;
+	vertical-align: middle;
+}
+
+input{
+	vertical-align: middle;
+}
+
+aside{
+	width: 140px;
+	border-right: solid 2px;
+	margin-top: 34px;
+	height: 100%;
+	padding: 5px 0px 5px 5px;
+	line-height: 28px;
+	position: fixed;
+	background-color: #E4ADEE;
+	left: 0px;
+	display: inline;
+}
+
+iframe{
+	margin-top: 34px;
+	margin-left: 135px;
+	width: 91%;
+	height: 94%;
+	overflow: auto;
+	position: fixed;
+}
+
+a{
+	color: inherit;
+	text-decoration: none;
+}
+
+form{
+	display: inline;
+	margin: 10px;
+}
+
+.signin{
+	font-size: 20px;
+	text-align: right;
+	margin-left: 695px;
+	vertical-align: middle;
+}
+
+.head{
+	color: #E8E981;
+	font-family: "Comic Sans MS";
+	vertical-align: middle;
+	font-size: 27px;
+}

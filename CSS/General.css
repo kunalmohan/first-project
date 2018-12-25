@@ -1,0 +1,31 @@
+*{
+  background: #FAEBE6;
+}
+
+img{
+	height: 210px;
+  border: thin silver solid;
+}
+
+figure {
+  float: left;
+  text-align: left;
+  font-size: 17px;
+  text-indent: 0px;
+  border: thin grey solid;
+  margin: 0.2em;
+  margin-bottom: 25px;
+  padding: 1px;
+  color: #6A6969;
+}
+
+.head{
+	font-size: 25px;
+	text-shadow: transparent;
+  font-family: "Verdana";
+}
+
+.price{
+  font-size: 20px;
+  color: blue
+}
